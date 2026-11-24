@@ -53,46 +53,6 @@ class NaveenKumarVeeramsetty:
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NaveenRoyallll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenRoyallll&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NaveenRoyallll&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenRoyallll&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
----
-
-## 📋 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaveenRoyallll&theme=tokyonight" width="95%" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
